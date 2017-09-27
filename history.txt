@@ -1,0 +1,66 @@
+    1  VirtualBox --startvm XP
+    2  user -r
+    3  whoami
+    4  user@sc - r
+    5  uname -r
+    6  uname -vlads
+    7  uname -v
+    8  whoami
+    9  uname -r
+   10  whoami
+   11  firefox
+   12  ls
+   13  history
+   14  history history.txt 
+   15  es
+   16  ls
+   17  >git init
+   18  git inint
+   19  git initgit init
+   20  pwd
+   21  ls
+   22  git init
+   23  ls
+   24  pwd
+   25  ls
+   26  git init
+   27  git add .
+   28  git config --global user.email v.abarovics@gmail.com
+   29  git commit -m "20170913_9_30"
+   30  $ x=10
+   31  $ echo Tecmint is a community of Linux Nerds
+   32  rcho
+   33  x=10
+   34  echo $x
+   35  echo -e "Tecmint \bis \ba \bcommunity \bof \bLinux \bNerds"
+   36  echo -e "Tecmint \nis \na \ncommunity \nof \nLinux \nNerds"
+   37  echo -e "Tecmint \tis \ta \tcommunity \tof \tLinux \tNerds"
+   38  echo -e "\n\tTecmint \n\tis \n\ta \n\tcommunity \n\tof \n\tLinux \n\tNerds"
+   39  echo -e "\vTecmint \vis \va \vcommunity \vof \vLinux \vNerds"
+   40  echo -e "\n\vTecmint \n\vis \n\va \n\vcommunity \n\vof \n\vLinux \n\vNerds"
+   41  echo -e "Tecmint \ris a community of Linux Nerds"
+   42  echo -e "Tecmint is a community \cof Linux Nerds"
+   43  echo -n "Tecmint is a community of Linux Nerds"
+   44  echo -e "Tecmint is a community of \aLinux Nerds"
+   45  pwd
+   46  echo Vlados is activating beast mode
+   47  echo -e "Vlados  \bis \bactivating \bthe \bbeast \bmode 
+echo -e "Vlados  \bis \bactivating \bthe \bbeast \bmode 
+   48  echo -n "Vlados is activating the beast mode"
+   49  echo -e "\n\vVlados \n\vis \n\vactivating \n\vthe \n\vbeast \n\vmode"
+   50  history
+   51  history > history.txt
+   52  echo | test page
+   53  echo "test page"
+   54  eho "test page" > tekst.txt
+   55  echo "test page" > tekst.txt
+   56  cdpwd
+   57  pwd
+   58  cd
+   59  ls -l
+   60  cd darbi
+   61  pwd
+   62  ls
+   63  ls -l
+   64  history
+   65  history > history.txt

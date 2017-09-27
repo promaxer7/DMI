@@ -1,0 +1,5 @@
+#!/bin/bash
+git add .
+git commit -m "20170927_10_30"
+git push origin master
+
